@@ -16,7 +16,8 @@
 /**********************************/
 /* General                        */
 /**********************************/
-body {font: 0.71em/1.5em Verdana, Arial, Helvetica, sans-serif; color: #333; background: #666; width: 980px; margin:0; padding:0;}
+body {font: 0.71em/1.5em Verdana, Arial, Helvetica, sans-serif; 
+color: #333; background: #666; margin:0; padding:0;}
 a   { color: #0D6AA6; text-decoration: none; }
 a:hover { text-decoration: underline; color: #f60;}
 form {margin:0;padding:0;}
